@@ -1,7 +1,0 @@
-{
-  "python.defaultInterpreterPath": "C:/Python313/python.exe",
-  "python.envFile": "${workspaceFolder}/.env",
-  "python.analysis.extraPaths": [
-    "C:/Python313/Lib/site-packages"
-  ]
-}
